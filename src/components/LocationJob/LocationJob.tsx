@@ -52,7 +52,7 @@ const LocationJob = ({ location }: ILocationJob) => {
       onUnmount={onUnmount}
       options={defaultOptions}
     >
-      <Marker position={center} icon={{url: '/place-point.svg'}} />
+      <Marker position={center} icon={{url: 'place-point.svg'}} />
     </GoogleMap>
   ) : <></>
 }
