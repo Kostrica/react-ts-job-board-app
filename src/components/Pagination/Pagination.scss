@@ -1,0 +1,46 @@
+.page-link {
+  display: flex;
+  align-items: center;
+  min-width: 31px;
+  min-height: 31px;
+  padding: 8px 6px 6px 10px;
+  font-family: 'Proxima Nova';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20.8px;
+  letter-spacing: 1.73333px;
+  line-height: 25px;
+  color: #70778B;
+  border: none;
+}
+
+.page-item:not(:first-child) .page-link {
+  margin-left: 2px;
+}
+
+.page-item:first-child .page-link {
+  border-right: 1.5px solid #DEE3EF;
+  font-size: 28px;
+  margin: 5px 45px 0 0;
+  padding: 0 31px 5px 23px;
+}
+
+.page-item:last-child .page-link {
+  border-left: 1.5px solid #DEE3EF;
+  font-size: 28px;
+  margin: 5px 0 0 49px;
+  padding: 0 23px 5px 31px;
+}
+
+.page-item.active {
+  background: none;
+}
+
+.page-item.active .page-link {
+  color: #5876C5;
+  border-bottom: 2.6px solid #5876C5;
+}
+
+.page-link:focus {
+  box-shadow: none;
+}
