@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-ts-job-board-app/static/css/main.6edbcef1.css",
-    "main.js": "/react-ts-job-board-app/static/js/main.005ee003.js",
+    "main.js": "/react-ts-job-board-app/static/js/main.1df60d28.js",
     "static/media/star.svg": "/react-ts-job-board-app/static/media/star.f58ca1c9bf8a5d71126a53a1818cf9b1.svg",
     "static/media/place-point.svg": "/react-ts-job-board-app/static/media/place-point.620f8bd764dae13f79e134d57d1d7c7b.svg",
     "static/media/left_icon.svg": "/react-ts-job-board-app/static/media/left_icon.ac6e013ce94e532a85cdd8909910d6c2.svg",
@@ -9,10 +9,10 @@
     "static/media/share.svg": "/react-ts-job-board-app/static/media/share.7700e47960f3794e5175f638d1b10b07.svg",
     "static/media/bookmark.svg": "/react-ts-job-board-app/static/media/bookmark.83905f0629b595c992a509190811b74f.svg",
     "main.6edbcef1.css.map": "/react-ts-job-board-app/static/css/main.6edbcef1.css.map",
-    "main.005ee003.js.map": "/react-ts-job-board-app/static/js/main.005ee003.js.map"
+    "main.1df60d28.js.map": "/react-ts-job-board-app/static/js/main.1df60d28.js.map"
   },
   "entrypoints": [
     "static/css/main.6edbcef1.css",
-    "static/js/main.005ee003.js"
+    "static/js/main.1df60d28.js"
   ]
 }
